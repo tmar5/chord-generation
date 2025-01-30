@@ -1,6 +1,6 @@
 # INF8225 - Artificial Intelligence: Probabilistic and Learning Techniques for Chord Generation in a Music Score
 
-Téo Marcin Mathias Gonin Victor Petit Julien Hage  
+Téo Marcin, Mathias Gonin, Victor Petit, Julien Hage  
 Polytechnique Montréal  
 \{teo.marcin, mathias.gonin, victor.petit, julien.hage\}@polymtl.ca
 
